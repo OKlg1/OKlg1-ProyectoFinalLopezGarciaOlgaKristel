@@ -144,6 +144,17 @@ header {
 	border-width: 0;
 }
 
+.cantidad-button {
+	text-align: center;
+	width: 20px;
+	height: 20px;
+	margin-right: 6px;
+	margin-left: 6px;
+	color: #fff;
+	background-color: #333;
+	border-width: 0;
+}
+
 .container-items {
 	display: grid;
 	grid-template-columns: repeat(3, 1fr);

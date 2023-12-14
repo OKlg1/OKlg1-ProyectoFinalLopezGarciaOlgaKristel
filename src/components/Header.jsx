@@ -97,14 +97,14 @@ export const Header = ({
 								{allProducts.map(product => (
 									<div className='cart-product' key={product.id}>
 										<div className='info-cart-product'>
-											<button onClick={() => discountStock(product)}>
-												menos
+											<button className='cantidad-button' onClick={() => discountStock(product)}>
+												-
 											</button>
 											<span className='cantidad-producto-carrito'>
 												{product.quantity}
 											</span>
-											<button onClick={() => onAddProduct(product)}>
-												mas
+											<button className='cantidad-button' onClick={() => onAddProduct(product)}>
+												+
 											</button>
 											<p className='titulo-producto-carrito'>
 												{product.nameProduct}
