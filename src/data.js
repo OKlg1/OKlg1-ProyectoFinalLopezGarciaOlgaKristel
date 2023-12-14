@@ -1,0 +1,42 @@
+export const data = [
+	{
+		id: 1,
+		img: 'https://images.unsplash.com/photo-1434389677669-e08b4cac3105?q=80&w=1305&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+		nameProduct: 'Chalina',
+		price: 350,
+		category: 'Mujer',
+		quantity: 1,
+	},
+	{
+		id: 2,
+		img: 'https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+		nameProduct: 'Pantalón',
+		price: 500,
+		category: 'Mujer',
+		quantity: 1,
+	},
+	{
+		id: 3,
+		img: 'https://images.unsplash.com/photo-1591195853828-11db59a44f6b?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+		nameProduct: 'Short',
+		price: 370,
+		category: 'Mujer',
+		quantity: 1,
+	},
+	{
+		id: 4,
+		img: 'https://images.unsplash.com/photo-1567955465154-078c60ff5c9e?q=80&w=1318&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+		nameProduct: 'Impermeable',
+		price: 600,
+		category: 'Hombre',
+		quantity: 1,
+	},
+	{
+		id: 5,
+		img: 'https://images.unsplash.com/photo-1583743814966-8936f5b7be1a?q=80&w=1287&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+		nameProduct: 'Playera',
+		price: 300,
+		category: 'Hombre',
+		quantity: 1,
+	},
+];
